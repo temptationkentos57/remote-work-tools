@@ -1,0 +1,13 @@
+{
+  "name": "remote-work-tools",
+  "version": "1.0.0",
+  "description": "Bộ công cụ làm việc từ xa",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {}
+}
