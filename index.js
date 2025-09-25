@@ -1,4 +1,4 @@
-console.log('Chào mừng bạn đến với Remote Work Tools!');
+console.log('Chào mừng bạn đến với công cụ làm việc từ xa!');
 
 // Chức năng giao tiếp
 function initializeCommunication() {
